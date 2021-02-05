@@ -5,11 +5,11 @@
 
 - 📫 Reach us at **[freeh4ck.company@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=freeh4ck.company@gmail.com)**
 <br>
- <p align="center"> <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="XzFrosT Stats" /></p>
+ <p align="center"> <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="Most Used Language" /></p>
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
-<a href="https://instagram.com/mscihsnhrd" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a  target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/591416431598632980" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
