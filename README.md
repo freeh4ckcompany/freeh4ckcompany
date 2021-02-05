@@ -10,5 +10,5 @@
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
-<a href="https://discord.com/users/765144285933731840" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/jjcwaEEZJK" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
