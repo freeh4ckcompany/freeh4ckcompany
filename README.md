@@ -3,7 +3,9 @@
 
 - 👨‍💻 All our Cheats are available at **[https://discord.gg/jjcwaEEZJK](https://)**
 - 📫 Reach us at **[freeh4ck.company@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=freeh4ck.company@gmail.com)**
+
 [![Freeh4CK Company](https://discordapp.com/api/guilds/765144285933731840/embed.png?style=banner2)](https://discord.gg/jjcwaEEZJK)
+
 <p align="center"> <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="Most Used Language" /></p>
 
