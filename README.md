@@ -10,6 +10,11 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeh4ckcompany&show_icons=true&hide_border=true&theme=tokyonight" alt="Most Used Language" /></p>
 
+- 🕹 Our Latest Upload
+<a href="https://github.com/freeh4ckcompany/PUBG-PC-LITE-v.1232">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeh4ckcompany&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
 <a href="https://discord.gg/jjcwaEEZJK" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
