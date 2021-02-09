@@ -12,7 +12,7 @@
 
 - 🕹 Our Latest Upload
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=anuraghazra&repo=github-readme-stats)]
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
