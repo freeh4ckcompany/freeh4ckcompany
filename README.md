@@ -12,9 +12,7 @@
 
 - 🕹 Our Latest Upload
 
-<a href="https://github.com/freeh4ckcompany/PUBG-PC-LITE-v.1232">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=anuraghazra&repo=github-readme-stats)]" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
