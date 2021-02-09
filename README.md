@@ -12,7 +12,7 @@
 
 - 🕹 Our Latest Upload
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=freeh4ckcompany&repo=github-readme-stats)]
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=thepracticaldev&repo=PUBG-PC-LITE-v.1232)]
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
