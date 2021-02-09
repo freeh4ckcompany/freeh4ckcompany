@@ -12,7 +12,7 @@
 
 - 🕹 Our Latest Upload
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany=thepracticaldev&repo=PUBG-PC-LITE-v.1232)]
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/freeh4ckcompany&repo=PUBG-PC-LITE-v.1232)]
 
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
