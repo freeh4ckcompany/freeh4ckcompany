@@ -3,7 +3,7 @@
 
 - 👨‍💻 All our Cheats are available at **[https://discord.gg/jjcwaEEZJK](https://)**
 
-[![Freeh4CK Company](https://discordapp.com/api/guilds/765144285933731840/embed.png?style=banner2)](https://discord.gg/jjcwaEEZJK)
+[![FreeH4CK Company](https://discordapp.com/api/guilds/765144285933731840/embed.png?style=banner2)](https://discord.gg/jjcwaEEZJK)
 
 - 📫 Reach us at **[freeh4ck.company@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=freeh4ck.company@gmail.com)**
 
